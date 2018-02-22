@@ -1,15 +1,33 @@
+$green: #98FB98;
+$grey: #D3D;
+$white: #fff;
+$black: #000;
 
-
-
-
-container {
-	padding: 30px;
-	background-color: white
-}
-
-h1 {
-	color: black;
+.container {
+	margin: 0 auto;
+	max-width: 1200px;
+	width: 60%;
+	padding: 200px;
+	background-color: $black;
 	text-align: center;
-	font-size: 28px;
+
+		h1 {
+			font-size: 40px;
+			color: $white;
+			text-align: center;
+		}
+
+		p {
+			font-size: 24px;
+			padding: 20px 30px;
+			color: $grey;
+			text-align: justify;
+		}
+
+		span {
+			font-size: 27px;
+			color: $green;
+		}
 
 }
+
