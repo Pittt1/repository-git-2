@@ -1,27 +1,7 @@
+.container { margin: 0 auto; max-width: 1200px; width: 60%; padding: 200px; background-color: #000; text-align: center; }
 
-.container {
-	margin: 0 auto;
-	max-width: 1200px;
-	width: 60%;
-	padding: 200px;
-	background-color: black;
-	text-align: center;
-}
+.container h1 { font-size: 40px; color: #fff; text-align: center; }
 
-h1 {
-	font-size: 40px;
-	color: white;
-	text-align: center;
-}
+.container p { font-size: 24px; padding: 20px 30px; color: #D3D; text-align: justify; }
 
-p {
-	font-size: 24px;
-	padding: 20px 30px;
-	color: grey;
-	text-align: justify;
-}
-
-span {
-	font-size: 27px;
-	color: green;
-}
+.container span { font-size: 27px; color: #98FB98; }
