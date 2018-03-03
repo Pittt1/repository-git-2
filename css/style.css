@@ -1,7 +1,28 @@
-.container { margin: 0 auto; max-width: 1200px; width: 60%; padding: 200px; background-color: #000; text-align: center; }
+.container {
+  margin: 0 auto;
+  max-width: 1200px;
+  width: 60%;
+  padding: 200px;
+  background-color: #000;
+  text-align: center;
+}
 
-.container h1 { font-size: 40px; color: #fff; text-align: center; }
+.container h1 {
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+}
 
-.container p { font-size: 24px; padding: 20px 30px; color: #D3D; text-align: justify; }
+.container p {
+  font-size: 24px;
+  padding: 20px 30px;
+  color: #D3D;
+  text-align: justify;
+}
 
-.container span { font-size: 27px; color: #98FB98; }
+.container span {
+  font-size: 27px;
+  color: #98FB98;
+}
+
+/*# sourceMappingURL=style.css.map */
